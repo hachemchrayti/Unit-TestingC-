@@ -8,5 +8,6 @@
     &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.FizzBuzzTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.StackTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.VideoServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.OrderServiceTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
