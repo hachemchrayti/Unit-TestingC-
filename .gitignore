@@ -1,0 +1,7 @@
+*.cache
+*.
+.vs/
+bin/
+.DS_Store
+obj/
+.idea/
