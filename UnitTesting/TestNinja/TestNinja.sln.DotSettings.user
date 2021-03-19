@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=98edb4f1_002D7d5b_002D4286_002Db440_002D2c43dc5ebd7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MathTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.CustomerControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.ErrorLoggerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.DemeritPointsCalculatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.FizzBuzzTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.StackTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.VideoServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.OrderServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.EmployeeControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.BookingHelper_OverlappingBookingsExistTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.HouseKeeperServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.InstallerHelperTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Mocking.ProductTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.Class1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68217DCA-359B-4838-9BA9-9AF89BD782B6::net5.0::TestNinja.UnitTests.ReservationTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
